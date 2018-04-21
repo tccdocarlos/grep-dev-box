@@ -1,6 +1,6 @@
 # A Virtual Machine for gRep Core Development
 
-**This is a fork of Rails Core development modified to gRep project.
+**This is a fork of Rails Core development modified to gRep project.**
 
 ## Introduction
 
@@ -27,7 +27,7 @@ That's it.
 After the installation has finished, you can access the virtual machine with
 
     host $ vagrant ssh
-    Welcome to Ubuntu 17.10 (GNU/Linux 4.13.0-16-generic x86_64)
+    Welcome to Ubuntu 18.04 (GNU/Linux 4.13.0-16-generic x86_64)
     ...
     vagrant@rails-dev-box:~$
 
