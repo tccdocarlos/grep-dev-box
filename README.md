@@ -1,4 +1,6 @@
-# A Virtual Machine for Ruby on Rails Core Development
+# A Virtual Machine for gRep Core Development
+
+**This is a fork of Rails Core development modified to gRep project.
 
 ## Introduction
 
